@@ -1,0 +1,184 @@
+[
+    {
+        "id": 24,
+        "name": {
+            "ru": "Андижанская область",
+            "uz_cyrl": "Андижон вилояти",
+            "uz_latn": "Andijon viloyati"
+        },
+        "location": {
+            "lan": 72.348444,
+            "lat": 40.716807
+        },
+        "yandex_search": "Узбекистан, Андижанская область"
+    },
+    {
+        "id": 22,
+        "name": {
+            "ru": "Бухарcкая область",
+            "uz_cyrl": "Бухоро вилояти",
+            "uz_latn": "Buxoro viloyati"
+        },
+        "location": {
+            "lan": 63.564412,
+            "lat": 40.191828
+        },
+        "yandex_search": "Узбекистан, Бухарская область"
+    },
+    {
+        "id": 2,
+        "name": {
+            "ru": "город Ташкент",
+            "uz_cyrl": "Тошкент шаҳри",
+            "uz_latn": "Toshkent shahri"
+        },
+        "location": {
+            "lan": 69.279737,
+            "lat": 41.311158
+        },
+        "yandex_search": "Узбекистан, Ташкент"
+    },
+    {
+        "id": 26,
+        "name": {
+            "ru": "Джизакская область",
+            "uz_cyrl": "Жиззах вилояти",
+            "uz_latn": "Jizzax viloyati"
+        },
+        "location": {
+            "lan": 67.592126,
+            "lat": 40.430188
+        },
+        "yandex_search": "Узбекистан, Джизакская область"
+    },
+    {
+        "id": 30,
+        "name": {
+            "ru": "Кашкадарьинская область",
+            "uz_cyrl": "Қашқадарё вилояти",
+            "uz_latn": "Qashqadaryo viloyati"
+        },
+        "location": {
+            "lan": 66.130513,
+            "lat": 38.681244
+        },
+        "yandex_search": "Узбекистан, Кашкадарьинская область"
+    },
+    {
+        "id": 29,
+        "name": {
+            "ru": "Навоийская область",
+            "uz_cyrl": "Навоий вилояти",
+            "uz_latn": "Navoiy viloyati"
+        },
+        "location": {
+            "lan": 64.233567,
+            "lat": 42.351559
+        },
+        "yandex_search": "Узбекистан, Навоийская область"
+    },
+    {
+        "id": 28,
+        "name": {
+            "ru": "Наманганская область",
+            "uz_cyrl": "Наманган вилояти",
+            "uz_latn": "Namangan viloyati"
+        },
+        "location": {
+            "lan": 71.672579,
+            "lat": 41.000085
+        },
+        "yandex_search": null
+    },
+    {
+        "id": 31,
+        "name": {
+            "ru": "Республика Каракалпакстан",
+            "uz_cyrl": "Қорақалпоғистон Республикаси",
+            "uz_latn": "Qoraqalpogʻiston Respublikasi"
+        },
+        "location": {
+            "lan": 58.966871,
+            "lat": 43.63994
+        },
+        "yandex_search": "Узбекистан, Республика Каракалпакстан"
+    },
+    {
+        "id": 32,
+        "name": {
+            "ru": "Самаркандская область",
+            "uz_cyrl": "Самарқанд вилояти",
+            "uz_latn": "Samarqand viloyati"
+        },
+        "location": {
+            "lan": 66.36659,
+            "lat": 39.773519
+        },
+        "yandex_search": "Узбекистан, Самаркандская область"
+    },
+    {
+        "id": 34,
+        "name": {
+            "ru": "Сурхандарьинская область",
+            "uz_cyrl": "Сурхондарё вилояти",
+            "uz_latn": "Surxondaryo viloyati"
+        },
+        "location": {
+            "lan": 67.48404,
+            "lat": 37.956731
+        },
+        "yandex_search": null
+    },
+    {
+        "id": 33,
+        "name": {
+            "ru": "Сырдарьинская область",
+            "uz_cyrl": "Сирдарё вилояти",
+            "uz_latn": "Sirdaryo viloyati"
+        },
+        "location": {
+            "lan": 68.711507,
+            "lat": 40.384364
+        },
+        "yandex_search": null
+    },
+    {
+        "id": 3,
+        "name": {
+            "ru": "Ташкентская область",
+            "uz_cyrl": "Тошкент вилояти",
+            "uz_latn": "Toshkent viloyati"
+        },
+        "location": {
+            "lan": 69.713407,
+            "lat": 41.109877
+        },
+        "yandex_search": "Узбекистан, Ташкентская область"
+    },
+    {
+        "id": 25,
+        "name": {
+            "ru": "Ферганская область",
+            "uz_cyrl": "Фарғона вилояти",
+            "uz_latn": "Farg'ona viloyati"
+        },
+        "location": {
+            "lan": 71.296814,
+            "lat": 40.491365
+        },
+        "yandex_search": "Узбекистан, Ферганская область"
+    },
+    {
+        "id": 27,
+        "name": {
+            "ru": "Хорезмская область",
+            "uz_cyrl": "Хоразм вилояти",
+            "uz_latn": "Xorazm viloyati"
+        },
+        "location": {
+            "lan": 60.615387,
+            "lat": 41.433454
+        },
+        "yandex_search": "Узбекистан, Хорезмская область"
+    }
+]
